@@ -1754,8 +1754,8 @@ section.product2-section {
     color: #01969e !important;
 }
 
-.bg-theme {
-    background-color: #01969e !important;
+.text-theme {
+    color: #01969e !important;
 }
 
 .product-card {
@@ -1785,16 +1785,6 @@ section.product2-section {
 .service-box {
     height: 100%;
     background-color: #fff;
-    position: relative;
-}
-
-.service-box a{
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    left: 50%;
-    transform: translateX(-50%);
-    margin-top: 20px;
 }
 
 .service-box .service-icon {
@@ -1806,7 +1796,6 @@ section.product2-section {
     background-color: #fff;
     padding: 20px;
     text-align: center;
-    padding-bottom: 50px;
 }
 
 .service-box img {

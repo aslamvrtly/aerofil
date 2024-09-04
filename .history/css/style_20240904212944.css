@@ -1788,15 +1788,6 @@ section.product2-section {
     position: relative;
 }
 
-.service-box a{
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    left: 50%;
-    transform: translateX(-50%);
-    margin-top: 20px;
-}
-
 .service-box .service-icon {
     background-color: #019BA4;
     text-align: center;
@@ -1806,7 +1797,6 @@ section.product2-section {
     background-color: #fff;
     padding: 20px;
     text-align: center;
-    padding-bottom: 50px;
 }
 
 .service-box img {

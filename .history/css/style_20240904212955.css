@@ -1794,7 +1794,7 @@ section.product2-section {
     width: 100%;
     left: 50%;
     transform: translateX(-50%);
-    margin-top: 20px;
+    margin-top: 2;
 }
 
 .service-box .service-icon {
@@ -1806,7 +1806,6 @@ section.product2-section {
     background-color: #fff;
     padding: 20px;
     text-align: center;
-    padding-bottom: 50px;
 }
 
 .service-box img {
