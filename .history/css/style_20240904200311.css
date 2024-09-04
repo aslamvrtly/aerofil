@@ -476,7 +476,6 @@ div#navbarNavDropdown {
     /*text-shadow: 1px 1px 53px #000;*/
     background: #019ba4;
     display: inline-block;
-    font-size: 40px;
 }
 
 .bnr-div p {
@@ -2002,7 +2001,4 @@ section.product2-section {
     padding-left: 40px;
 }
 
-#bms.tab-pane h2{
-    font-size: 21px!important;
-    font-weight: bold!important;
-}
+#bms .tab-pane h2
